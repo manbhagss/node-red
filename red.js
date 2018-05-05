@@ -66,7 +66,7 @@ if (parsedArgs.help) {
     console.log("  -s, --settings FILE  use specified settings file");
     console.log("      --title    TITLE process window title");
     console.log("  -u, --userDir  DIR   use specified user directory");
-    console.log("  -v, --verbose        enable verbose output");
+    console.log("  -v, --verbose        enable verbose output ");
     console.log("  -?, --help           show this help");
     console.log("");
     console.log("Documentation can be found at http://nodered.org");
